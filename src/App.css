@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.color {
+
+  color: red;
+}
+
+
+.cricketer {
+  border: red solid 10px;
+  border-radius: 5px;
+  margin: 10px 0;
+}
